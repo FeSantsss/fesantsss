@@ -1,4 +1,29 @@
-## Hi there 👋
+<h1 align="center">Felipy Santos</h1>
+
+<p align="center">
+  🚀 Engenheiro de Software em Formação <br/>
+  🎯 Foco atual: Java & Desenvolvimento Back-End
+</p>
+
+
+---
+
+### 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeSantsss&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeSantsss&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+### 📫 Contato
+
+- 💼 [LinkedIn](www.linkedin.com/in/felipysantsss)
+- ✉️ tercetime01@gmail.com
+
+---
+
 
 <!--
 **FeSantsss/fesantsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
