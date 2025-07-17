@@ -20,7 +20,7 @@
 ### 📫 Contato
 
 - 💼 [LinkedIn](www.linkedin.com/in/felipysantsss)
-- ✉️ tercetime01@gmail.com
+- ✉️ felipysantss@gmail.com
 
 ---
 
