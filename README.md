@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Engenheiro de Software em Formação <br/>
-  🎯 Foco atual: Java & Desenvolvimento Back-End
+  🎯 Foco atual: Desenvolvimento Back-End(Java Spring) & Front-End
 </p>
 
 
