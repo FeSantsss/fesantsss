@@ -1,14 +1,14 @@
 <h1 align="center">Felipy Santos</h1>
 
 <p align="center">
-  🚀 Engenheiro de Software em Formação <br/>
-  🎯 Foco atual: Desenvolvimento Back-End(Java Spring) & Front-End
+  🚀 DEVELOPER FULL-STACK <br/>
+  Back-End(Java Spring) && Front-End (React JSX/TSX)
 </p>
 
 
 ---
 
-### 📊 Estatísticas GitHub
+### 📊 GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeSantsss&show_icons=true&theme=tokyonight&count_private=true"/>
@@ -17,10 +17,10 @@
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 - 💼 [LinkedIn](www.linkedin.com/in/felipysantsss)
-- ✉️ felipysantss@gmail.com
+- ✉️ felipysaints@gmail.com
 
 ---
 
