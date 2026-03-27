@@ -23,7 +23,11 @@ Full-Stack Developer | Front-End Focused
 </div>
 
 ---
+
 ## ⚡ Tech Stack
+
+
+<div align="center">
 
 ###  Frontend (Primary Focus)
 
@@ -38,7 +42,11 @@ Full-Stack Developer | Front-End Focused
 ![React Router](https://img.shields.io/badge/React_Router-0d1117?style=for-the-badge&logo=reactrouter&logoColor=CA4245)
 ![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF)
 
+</div>
+
 ---
+
+<div align="center">
 
 ###  Backend (Full-Stack Capability)
 
@@ -48,27 +56,32 @@ Full-Stack Developer | Front-End Focused
 
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
+</div>
+
 ---
+
+<div align="center">
 
 ###  Tools & Workflow
 
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=ff7ACC)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-0d1117?style=for-the-badge&logo=intellijidea&logoColor=FF9999)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
----
-
-###  Environment
-
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=E8E8E8)
 
+</div>
+
 ---
+
+<div align="center">
 
 ###  Engineering Direction
 
 ![Focus](https://img.shields.io/badge/Focus-Frontend%20Engineering-0d1117?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/Role-Full--Stack%20Developer-0d1117?style=for-the-badge)
 ![Mindset](https://img.shields.io/badge/Mindset-UI%20%2B%20System%20Thinking-0d1117?style=for-the-badge)
+
+</div>
 
 ##  Who am I
 
