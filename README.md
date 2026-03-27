@@ -4,12 +4,25 @@
 
 Full-Stack Developer | Front-End Focused
 
-[![GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=FeSantsss&theme=nordfox&title=Felipy+Santos&hide=forks%2Cprs_merged%2Cissues%2Ccontributed&border_width=0.1&border_radius=7.5&photo_quality=100&revert=true)](https://bit.ly/gh-readme-profile)
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Felipy+Santos;Full-Stack+Focused;Building+Real+World+Systems" alt="Typing" />
 
+<br/>
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=FeSantsss&show_icons=true&theme=nord)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=FeSantsss&theme=nord)
+<p align="center">
+  <em>Focused on website development</em>
+</p>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipysantsss)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=FeSantsss&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/FeSantsss)
+&nbsp;
+![Status](https://img.shields.io/badge/🟢_Building_Consistently-0d1b2a?style=for-the-badge)
+
 </div>
+
+---
 
 ## 🛠️ Tech Stack
 
