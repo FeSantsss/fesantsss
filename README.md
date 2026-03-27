@@ -4,6 +4,8 @@
 
 Full-Stack Developer | Front-End Focused
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=FeSantsss&show_icons=true&theme=nord)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=FeSantsss&theme=nord)
 </div>
 
 ## 🛠️ Tech Stack
@@ -19,3 +21,5 @@ const felipy = {
   stack: ["React", "Java", "Spring Boot", "TypeScript"],
   goal: "Work internationally",
 };
+```
+
