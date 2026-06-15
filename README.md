@@ -27,7 +27,7 @@ F E L I P Y   S A N T O S
 {
   "focus"  : "front-end",
   "role"   : "full-stack developer",
-  "stack"  : ["Next", "React", "TypeScript", "Spring Boot"],
+  "stack"  : ["Next", "Tailwind", "Sanity CMS", "TypeScript", "Spring Boot"],
   "goal"   : "work internationally"
 }
 ```
