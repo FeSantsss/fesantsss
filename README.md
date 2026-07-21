@@ -27,7 +27,7 @@ F E L I P Y   S A N T O S
 {
   "focus"  : "front-end",
   "role"   : "full-stack developer",
-  "stack"  : ["Next", "Tailwind", "Sanity CMS", "TypeScript", "Spring Boot"],
+  "stack"  : ["Next", "Tailwind CSS", "Sanity CMS", "Java", "Spring Boot"],
   "goal"   : "work internationally"
 }
 ```
@@ -49,7 +49,6 @@ F E L I P Y   S A N T O S
 ![Sanity CMS](https://img.shields.io/badge/Sanity-0d1117?style=flat-square&logo=sanity&logoColor=F03E2F)
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![Motion](https://img.shields.io/badge/Motion-0d1117?style=flat-square&logo=framer&logoColor=0055FF)
 
 
 <br/><br/>
