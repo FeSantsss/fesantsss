@@ -1,6 +1,7 @@
 <div align="center">
 <br/>
 
+![](banner-fesantsss.png)
 ```
 F E L I P Y   S A N T O S
 ```
@@ -18,21 +19,6 @@ F E L I P Y   S A N T O S
 <br/>
 
 </div>
-
----
-
-<br/>
-
-```json
-{
-  "focus"  : "front-end",
-  "role"   : "full-stack developer",
-  "stack"  : ["Next", "Tailwind CSS", "Sanity CMS", "Java", "Spring Boot"],
-  "goal"   : "work internationally"
-}
-```
-
-<br/>
 
 ---
 
