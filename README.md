@@ -10,11 +10,17 @@ F E L I P Y   S A N T O S
 
 <br/>
 
-[![](https://img.shields.io/badge/linkedin-felipysantsss-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/felipysantsss)
-&nbsp;
-[![](https://img.shields.io/badge/github-FeSantsss-24292e?style=flat-square&logo=github&logoColor=white&labelColor=24292e)](https://github.com/FeSantsss)
-&nbsp;
-![](https://img.shields.io/badge/●_building_consistently-3B6D11?style=flat-square)
+<div align="center">
+<a target='_blank' href="https://instagram.com/felipysantsss">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target='_blank' href="https://linkedin.com/in/felipysantsss">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a target='_blank' href="https://dev.to/felipysantsss">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+    </a>
+</div>
 
 <br/>
 
