@@ -1,7 +1,7 @@
 <div align="center">
 <br/>
 
-![](banner-fesant)
+![](myBanner.png)
 ```
 F E L I P Y   S A N T O S
 ```
