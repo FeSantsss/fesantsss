@@ -94,9 +94,9 @@ I care about systems that are reliable, maintainable and designed with a clear p
 
 ## Featured project
 
-### Java4All
+### Java4br
 
-**Java4All** is an AI-built educational platform (PT-BR) for people who want to study Java through a structured path — from language fundamentals to the technologies used in modern backend development.
+**Java4br** is an AI-built educational platform (PT-BR) for brazilians who want to study Java through a structured path — from language fundamentals to the technologies used in modern backend development.
 
 The project brings together theory, practical exercises and mini-projects covering topics such as:
 
@@ -109,7 +109,7 @@ The project brings together theory, practical exercises and mini-projects coveri
 
 It was created to turn an extensive Java roadmap into a more organized, accessible and practice-oriented learning experience.
 
-**[Explore Java4All →](https://fesantsss.github.io/java4all/)**
+**[Explore Java4br →](https://fesantsss.github.io/java4br/)**
 
 <br />
 
