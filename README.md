@@ -96,7 +96,7 @@ I care about systems that are reliable, maintainable and designed with a clear p
 
 ### Java4br
 
-**Java4br** is an AI-built educational platform (PT-BR) for brazilians who want to study Java through a structured path — from language fundamentals to the technologies used in modern backend development.
+**Java4br** is an educational platform (PT-BR) for brazilians who want to study Java through a structured path — from language fundamentals to the technologies used in modern backend development.
 
 The project brings together theory, practical exercises and mini-projects covering topics such as:
 
