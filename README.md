@@ -109,7 +109,7 @@ The project brings together theory, practical exercises and mini-projects coveri
 
 It was created to turn an extensive Java roadmap into a more organized, accessible and practice-oriented learning experience.
 
-**[Explore Java4br →](https://fesantsss.github.io/java4br/)**
+**[Explore Java4br →](https://java4br.vercel.app/)**
 
 <br />
 
