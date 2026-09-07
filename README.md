@@ -53,40 +53,41 @@ I care about systems that are reliable, maintainable and designed with a clear p
 
 <sub>B A C K E N D</sub>
 
-<br /><br />
+<br />
 
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=6DB33F)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+<a href="https://www.java.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a>
+<a href="https://spring.io" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/spring/6DB33F" alt="Spring Framework" width="40" height="40" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" width="40" height="40" /></a>
+<a href="https://spring.io/projects/spring-security" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/springsecurity/6DB33F" alt="Spring Security" width="40" height="40" /></a>
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" height="40" /></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="40" height="40" /></a>
 
-<br /><br />
+<br />
 
 <sub>F R O N T E N D</sub>
 
-<br /><br />
+<br />
 
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![GSAP](https://img.shields.io/badge/GSAP-0D1117?style=flat-square&logo=greensock&logoColor=88CE02)
-![Motion](https://img.shields.io/badge/Motion-0D1117?style=flat-square&logo=framer&logoColor=0055FF)
-![Sanity](https://img.shields.io/badge/Sanity_CMS-0D1117?style=flat-square&logo=sanity&logoColor=F03E2F)
+<a href="https://nextjs.org" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" width="40" height="40" /></a>
+<a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40" /></a>
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40" height="40" /></a>
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40" /></a>
+<a href="https://gsap.com" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/greensock/88CE02" alt="GSAP" width="40" height="40" /></a>
+<a href="https://motion.dev" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/framer/0055FF" alt="Motion" width="40" height="40" /></a>
+<a href="https://www.sanity.io" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/sanity/F03E2F" alt="Sanity CMS" width="40" height="40" /></a>
 
-<br /><br />
+<br />
 
 <sub>T O O L I N G &nbsp; / &nbsp; I N F R A</sub>
 
-<br /><br />
+<br />
 
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0D1117?style=flat-square&logo=intellijidea&logoColor=FFFFFF)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-0D1117?style=flat-square&logo=archlinux&logoColor=1793D1)
+<a href="https://git-scm.com" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40" /></a>
+<a href="https://github.com" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40" /></a>
+<a href="https://www.docker.com" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40" /></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/intellijidea/000000" alt="IntelliJ IDEA" width="40" height="40" /></a>
+<a href="https://www.postman.com" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="40" height="40" /></a>
+<a href="https://archlinux.org" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/archlinux/1793D1" alt="Arch Linux" width="40" height="40" /></a>
 
 </div>
 
@@ -100,12 +101,17 @@ I care about systems that are reliable, maintainable and designed with a clear p
 
 The project brings together theory, practical exercises and mini-projects covering topics such as:
 
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![Spring](https://img.shields.io/badge/Spring_Ecosystem-0D1117?style=flat-square&logo=spring&logoColor=6DB33F)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-0D1117?style=flat-square&logo=apachekafka&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Testing](https://img.shields.io/badge/Testing-0D1117?style=flat-square&logo=junit5&logoColor=25A162)
-![Architecture](https://img.shields.io/badge/Software_Architecture-0D1117?style=flat-square&logo=diagramsdotnet&logoColor=F08705)
+<div align="center">
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="36" height="36" /></a>
+<a href="https://spring.io" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/spring/6DB33F" alt="Spring Ecosystem" width="36" height="36" /></a>
+<a href="https://kafka.apache.org" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/apachekafka/000000" alt="Apache Kafka" width="36" height="36" /></a>
+<a href="https://www.docker.com" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="36" height="36" /></a>
+<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/junit5/25A162" alt="Testing" width="36" height="36" /></a>
+
+</div>
+
+<br />
 
 It was created to turn an extensive Java roadmap into a more organized, accessible and practice-oriented learning experience.
 
