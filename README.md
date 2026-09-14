@@ -47,6 +47,14 @@ I care about systems that are reliable, maintainable and designed with a clear p
 
 <br />
 
+<div align="center">
+  
+![Stats](https://github-flex.vercel.app/api/stats?username=FeSantsss&theme=tokyonight)
+
+</div>
+
+<br />
+
 ## Tech stack
 
 <div align="center">
