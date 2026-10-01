@@ -101,8 +101,6 @@ I care about systems that are reliable, maintainable and designed with a clear p
 
 <br />
 
-## Featured project
-
 ### Java4br
 
 **Java4br** is an educational platform (PT-BR) for brazilians who want to study Java through a structured path — from language fundamentals to the technologies used in modern backend development.
@@ -121,7 +119,7 @@ The project brings together theory, practical exercises and mini-projects coveri
 
 <br />
 
-It was created to turn an extensive Java roadmap into a more organized, accessible and practice-oriented learning experience.
+It was created with AI to turn an extensive Java roadmap into a more organized, accessible and practice-oriented learning experience.
 
 **[Explore Java4br →](https://java4br.vercel.app/)**
 
